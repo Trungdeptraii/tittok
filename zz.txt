@@ -5,3 +5,9 @@
     git config --global user.email "stringEmail"
 
     check git config user.name | user.email
+# 3> Commit
+    git add fiename (thêm file vào repository)
+    git status - kiểm tra trạng thái đã ok chưa
+    git commit -m "ghi chú"
+# 4> push 
+    git push origin brain -> git push origin mail
