@@ -1,0 +1,7 @@
+# 1> clone repository
+    git clone url repository -> git clone https://github.com/Trungdeptraii/tittok.git
+# 2> set config (user.name, user.email)
+    git config --global user.name  "stringName" 
+    git config --global user.email "stringEmail"
+
+    check git config user.name | user.email
